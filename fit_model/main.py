@@ -1,3 +1,6 @@
+# gcloud functions deploy python-fitting-model --gen2 --runtime=python311 --region=europe-central2 --source=. --entry-point=fit_model --trigger-http --allow-unauthenticated
+# functions-framework --target=fit_model 
+
 from flask import escape
 
 import functions_framework
@@ -42,6 +45,11 @@ def fit_model(request):
     temp = tempfile.NamedTemporaryFile(suffix='.wav')
     temp.write(io.BytesIO(request.data).getbuffer())
     y, sr = librosa.load(temp.name)
+    print(f"--------------------------------------> sr = {sr}")
+    if sr != 22050:
+        y = librosa.resample(y, orig_sr=sr, target_sr=22050)
+        sr = 22050
+
     D = librosa.amplitude_to_db(np.abs(librosa.stft(y)), ref=np.max)
     D = normalize(D)
     img = Image.fromarray(D)
