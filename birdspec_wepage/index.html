@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style> 
+.button {
+  width: 122px;
+  height: 60px;
+  padding: 18px 22px 18px 20px;
+  gap: 1px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: #cbffb7;
+  border-radius: 16px;
+  border: none;
+  cursor: pointer;
+}
+
+.label {
+  font-family: sans-serif;
+  height: 23px;
+  font-size: 19px;
+  line-height: 24px;
+  color: #000000;
+}
+
+.button:hover {
+  background: #8ee6b6;
+}
+
+.button:hover .svg-icon {
+  animation: pulse 0.7s linear infinite;
+}
+
+@keyframes pulse {
+  0% {
+    transform: scale(1);
+  }
+
+  50% {
+    transform: scale(1.13);
+  }
+
+  100% {
+    transform: scale(1);
+  }
+}
+</style>
+</head>
+<body>
+    <h1>Nagraj ptaka</h1>
+    <button class="button" id="recordButton">
+        <span class="label" id="buttonLabel">Start</span>
+    </button>
+    <ul id="results"></ul>
+    <script src="recorder.js"></script>
+    <script src="app.js"></script> 
+    
+
+</body>
+</html>
+

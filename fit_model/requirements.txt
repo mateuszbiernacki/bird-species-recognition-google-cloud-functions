@@ -1,0 +1,7 @@
+  # An example requirements file. If your function has other dependencies,
+  # add them below
+  functions-framework==3.*
+  flask
+  numpy
+  librosa
+  pillow
