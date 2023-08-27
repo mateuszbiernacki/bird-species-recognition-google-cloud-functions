@@ -1,0 +1,161 @@
+LP,POLSKI,ŁACINA,PODŁOGA
+1,Jastrząb,Accipiter gentilis,Accipiter_gentilis
+2,Trzciniak,Acrocephalus arundinaceus,Acrocephalus_arundinaceus
+3,Wodniczka,Acrocephalus paludicola,Acrocephalus_paludicola
+4,Łozówka,Acrocephalus palustris,Acrocephalus_palustris
+5,Rokitniczka,Acrocephalus schoenobaenus,Acrocephalus_schoenobaenus
+6,Trzcinniczek,Acrocephalus scirpaceus,Acrocephalus_scirpaceus
+7,Włochatka,Aegolius funereus,Aegolius_funereus
+8,Skowronek,Alauda arvensis,Alauda_arvensis
+9,Zimorodek,Alcedo atthis,Alcedo_atthis
+10,Krzyżówka,Anas platyrhynchos,Anas_platyrhynchos
+11,Gęgawa,Anser anser,Anser_anser
+12,Gęś zbożowa,Anser fabalis,Anser_fabalis
+13,Świergotek Łąkowy,Anthus pratensis,Anthus_pratensis
+14,Siwerniak,Anthus spinoletta,Anthus_spinoletta
+15,Świergotek drzewny,Anthus trivialis,Anthus_trivialis
+16,Jerzyk,Apus apus,Apus_apus
+17,Czapla biała,Ardea alba,Ardea_alba
+18,Czapla siwa,Ardea cinerea,Ardea_cinerea
+19,Uszatka,Asio otus,Asio_otus
+20,Pójdźka,Athene noctua,Athene_noctua
+21,Głowienka,Aythya ferina,Aythya_ferina
+22,Jemiołuszka,Bombycilla garrulus,Bombycilla_garrulus
+23,Bąk,Botaurus stellaris,Botaurus_stellaris
+24,Puchacz,Bubo bubo,Bubo_bubo
+25,Gągoł,Bucephala clangula,Bucephala_clangula
+26,Myszołów,Buteo buteo,Buteo_buteo
+27,Lelek,Caprimulgus europaeus,Caprimulgus_europaeus
+28,Szczygieł,Carduelis carduelis,Carduelis_carduelis
+29,Dziwonia,Carpodacus erythrinus,Carpodacus_erythrinus
+30,Pełzacz Leśny,Certhia familiaris,Certhia_familiaris
+31,Siweczka rzeczna,Charadrius dubius,Charadrius_dubius
+32,Rybitwy białowąsa,Chlidonias hybrida,Chlidonias_hybrida
+33,Rybitwa białoskrzydła,Chlidonias leucopterus,Chlidonias_leucopterus
+34,Rybitwa czarna,Chlidonias niger,Chlidonias_niger
+35,Dzwoniec,Chloris chloris,Chloris_chloris
+36,Mewa śmieszka,Chroicocephalus ridibundus,Chroicocephalus_ridibundus
+37,Bocian Biały,Ciconia ciconia,Ciconia_ciconia
+38,Błotnik Stawowy,Circus aeruginosus,Circus_aeruginosus
+39,Grubodziób,Coccothraustes coccothraustes,Coccothraustes_coccothraustes
+40,Kawka,Coloeus monedula,Coloeus_monedula
+41,Siniak,Columba oenas,Columba_oenas
+42,Grzywacz,Columba palumbus,Columba_palumbus
+43,Kruk,Corvus corax,Corvus_corax
+44,Wrona,Corvus cornix,Corvus_cornix
+45,Gawron,Corvus frugilegus,Corvus_frugilegus
+46,Przepiórka,Coturnix coturnix,Coturnix_coturnix
+47,Derkacz,Crex crex,Crex_crex
+48,Kukułka,Cuculus canorus,Cuculus_canorus
+49,Cierniówka,Curruca communis,Curruca_communis
+50,Piegża,Curruca curruca,Curruca_curruca
+51,Jarzębatka,Curruca nisoria,Curruca_nisoria
+52,Modraszka,Cyanistes caeruleus,Cyanistes_caeruleus
+53,Łabędź krzykliwy,Cygnus cygnus,Cygnus_cygnus
+54,Łabędź niemy,Cygnus olor,Cygnus_olor
+55,Oknówka,Delichon urbicum,Delichon_urbicum
+56,Dzięcioł Duży,Dendrocopos major,Dendrocopos_major
+57,Dzięcioł średni,Dendrocoptes medius,Dendrocoptes_medius
+58,Dzięciołek,Dryobates minor,Dryobates_minor
+59,Dzięcioł Czarny,Dryocopus martius,Dryocopus_martius
+60,Potrzeszcz,Emberiza calandra,Emberiza_calandra
+61,Trznadel,Emberiza citrinella,Emberiza_citrinella
+62,Ortolan,Emberiza hortulana,Emberiza_hortulana
+63,Potrzos,Emberiza schoeniclus,Emberiza_schoeniclus
+64,Rudzik,Erithacus rubecula,Erithacus_rubecula
+65,Pustułka,Falco tinnunculus,Falco_tinnunculus
+66,Muchołówka białoszyja,Ficedula albicollis,Ficedula_albicollis
+67,Muchołówka Żałobna,Ficedula hypoleuca,Ficedula_hypoleuca
+68,Muchołówka mała,Ficedula parva,Ficedula_parva
+69,Zięba,Fringilla coelebs,Fringilla_coelebs
+70,Łyska,Fulica atra,Fulica_atra
+71,Dzierlatka,Galerida cristata,Galerida_cristata
+72,Kszyk,Gallinago gallinago,Gallinago_gallinago
+73,Dubelt,Gallinago media,Gallinago_media
+74,Sójka,Garrulus glandarius,Garrulus_glandarius
+75,Sóweczka,Glaucidium passerinum,Glaucidium_passerinum
+76,Żuraw,Grus grus,Grus_grus
+77,Ostrygojad,Haematopus ostralegus,Haematopus_ostralegus
+78,Bielik,Haliaeetus albicilla,Haliaeetus_albicilla
+79,Zaganiacz,Hippolais icterina,Hippolais_icterina
+80,Dymówka,Hirundo rustica,Hirundo_rustica
+81,Krętogłów,Jynx torquilla,Jynx_torquilla
+82,Gąsiorek,Lanius collurio,Lanius_collurio
+83,Mewa srebrzysta,Larus argentatus,Larus_argentatus
+84,Rycyk,Limosa limosa,Limosa_limosa
+85,Makolągwa,Linaria cannabina,Linaria_cannabina
+86,Strumieniówka,Locustella fluviatilis,Locustella_fluviatilis
+87,Brzęczka,Locustella luscinioides,Locustella_luscinioides
+88,Świerszczak,Locustella naevia,Locustella_naevia
+89,Czubatka,Lophophanes cristatus,Lophophanes_cristatus
+90,Lerka,Lullula arborea,Lullula_arborea
+91,Słowik Szary,Luscinia luscinia,Luscinia_luscinia
+92,Słowik Rdzawy,Luscinia megarhynchos,Luscinia_megarhynchos
+93,Podróżniczek,Luscinia svecica,Luscinia_svecica
+94,Cietrzew,Lyrurus tetrix,Lyrurus_tetrix
+95,Krakwa,Mareca strepera,Mareca_strepera
+96,Żołna,Merops apiaster,Merops_apiaster
+97,Pliszka Siwa,Motacilla alba,Motacilla_alba
+98,Pliszka górska,Motacilla cinerea,Motacilla_cinerea
+99,Pliszka Żółta,Motacilla flava,Motacilla_flava
+100,Muchołówka szara,Muscicapa striata,Muscicapa_striata
+101,Orzechówka,Nucifraga caryocatactes,Nucifraga_caryocatactes
+102,Kulik Wielki,Numenius arquata,Numenius_arquata
+103,Białorzytka,Oenanthe oenanthe,Oenanthe_oenanthe
+104,Wilga,Oriolus oriolus,Oriolus_oriolus
+105,Wąsatka,Panurus biarmicus,Panurus_biarmicus
+106,Sikora Bogatka,Parus major,Parus_major
+107,Wróbel,Passer domesticus,Passer_domesticus
+108,Mazurek,Passer montanus,Passer_montanus
+109,Kuropatwa,Perdix perdix,Perdix_perdix
+110,Sosnówka,Periparus ater,Periparus_ater
+111,Kormoran,Phalacrocorax carbo,Phalacrocorax_carbo
+112,Bażant,Phasianus colchicus,Phasianus_colchicus
+113,Kopciuszek,Phoenicurus ochruros,Phoenicurus_ochruros
+114,Pleszka,Phoenicurus phoenicurus,Phoenicurus_phoenicurus
+115,Pierwiosnek,Phylloscopus collybita,Phylloscopus_collybita
+116,Świstunka,Phylloscopus sibilatrix,Phylloscopus_sibilatrix
+117,Piecuszek,Phylloscopus trochilus,Phylloscopus_trochilus
+118,Sroka,Pica pica,Pica_pica
+119,Dzięcioł Zielony,Picus viridis,Picus_viridis
+120,Perkoz Dwuczuby,Podiceps cristatus,Podiceps_cristatus
+121,Perkoz Rdzawoszyi,Podiceps grisegena,Podiceps_grisegena
+122,Czarnogłówka,Poecile montanus,Poecile_montanus
+123,Sikora Uboga,Poecile palustris,Poecile_palustris
+124,Kropiatka,Porzana porzana,Porzana_porzana
+125,Pokrzywnica,Prunella modularis,Prunella_modularis
+126,Gil,Pyrrhula pyrrhula,Pyrrhula_pyrrhula
+127,Wodnik,Rallus aquaticus,Rallus_aquaticus
+128,Zniczek,Regulus ignicapilla,Regulus_ignicapilla
+129,Mysikrólik,Regulus regulus,Regulus_regulus
+130,Remiz,Remiz pendulinus,Remiz_pendulinus
+131,Brzegówka,Riparia riparia,Riparia_riparia
+132,Poklaskwa,Saxicola rubetra,Saxicola_rubetra
+133,Słonka,Scolopax rusticola,Scolopax_rusticola
+134,Kulczyk,Serinus serinus,Serinus_serinus
+135,Kowalik,Sitta europaea,Sitta_europaea
+136,Cyranka,Spatula querquedula,Spatula_querquedula
+137,Czyż,Spinus spinus,Spinus_spinus
+138,Rybitwa rzeczna,Sterna hirundo,Sterna_hirundo
+139,Sierpówka,Streptopelia decaocto,Streptopelia_decaocto
+140,Turkawka,Streptopelia turtur,Streptopelia_turtur
+141,Puszczyk,Strix aluco,Strix_aluco
+142,Szpak,Sturnus vulgaris,Sturnus_vulgaris
+143,Pokrzewka Czarnołbista,Sylvia atricapilla,Sylvia_atricapilla
+144,Gajówka,Sylvia borin,Sylvia_borin
+145,Perkozek,Tachybaptus ruficollis,Tachybaptus_ruficollis
+146,Głuszec,Tetrao urogallus,Tetrao_urogallus
+147,Jarząbek,Tetrastes bonasia,Tetrastes_bonasia
+148,Łęczak,Tringa glareola,Tringa_glareola
+149,Kwokacz,Tringa nebularia,Tringa_nebularia
+150,Krwawodziób,Tringa totanus,Tringa_totanus
+151,Strzyżyk,Troglodytes troglodytes,Troglodytes_troglodytes
+152,Droździk,Turdus iliacus,Turdus_iliacus
+153,Kos,Turdus merula,Turdus_merula
+154,Śpiewak,Turdus philomelos,Turdus_philomelos
+155,Kwiczoł,Turdus pilaris,Turdus_pilaris
+156,Paszkot,Turdus viscivorus,Turdus_viscivorus
+157,Płomykówka,Tyto alba,Tyto_alba
+158,Dudek,Upupa epops,Upupa_epops
+159,Czajka,Vanellus vanellus,Vanellus_vanellus
+160,Zielonka,Zapornia parva,Zapornia_parva
